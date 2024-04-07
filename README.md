@@ -15,6 +15,6 @@ Observe que há um sentimento geral seguido por pontuações próximas a três c
 </br></br>
 <b>Referência:</b> https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
 <h2>Resultado</h2>
-<img src="Imagens/AzureML-1.PNG"/>
+<img src="Imagens/AzureML-1.png">
 </br></br>
 Com o serviço de Fala do Azure é possível sincronizar legendas com seu áudio de entrada, aplicar filtros de palavrões, interagir com chatbots e assistentes de voz, converter textos digitais, transcrever chamadas em tempo real, redigir informações de identificação pessoal e extrair percepções de sentimento para ajudar no caso de uso de call center, avaliação de pronúncia para alunos de idiomas e até mesmo criar interfaces de conversação natural.
